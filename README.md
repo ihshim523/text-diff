@@ -1,6 +1,5 @@
 # text-diff
 
-[![npm version](https://img.shields.io/npm/v/text-diff)](https://www.npmjs.com/package/text-diff)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A lightweight, zero-dependency text diff library in pure TypeScript. Uses the **Longest Common Subsequence (LCS)** algorithm to compute line-level diffs between two strings.
